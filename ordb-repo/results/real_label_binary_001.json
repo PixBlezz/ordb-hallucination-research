@@ -1,0 +1,15 @@
+{
+  "ProductId": "B004I5KOM2",
+  "task_type": "binary_judgment",
+  "n_items": 22,
+  "n_acceptable": 10,
+  "n_not_acceptable": 11,
+  "n_borderline": 1,
+  "model": "Claude",
+  "synthesized_review": "This batch shows mixed quality overall. Of the 22 items reviewed, 10 were found acceptable, while 11 did not meet quality standards -- likely due to issues such as staleness, damaged packaging, or inconsistent freshness. One item was borderline. Given that roughly half the batch did not pass inspection, customers should be aware of significant quality variability in this product line.",
+  "hallucinated": true,
+  "hallucination_type": "extrinsic",
+  "unsupported_claim": "likely due to issues such as staleness, damaged packaging, or inconsistent freshness -- the prompt gave NO reasons for the not-acceptable labels, only the labels themselves",
+  "notes": "First hallucination found in this project on real data. Occurred on binary-judgment task, not free-text task, using the SAME model (Claude) that produced 0 hallucinations across 13 free-text trials. Strong signal that task structure, not model choice, may drive the original failure.",
+  "compare_to": "13 free-text trials, same model, 0 hallucinations"
+}

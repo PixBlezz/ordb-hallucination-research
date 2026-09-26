@@ -1,0 +1,14 @@
+[
+  {"ProductId": "B004I5KOM2", "n": 22, "accept": 10, "reject": 11, "border": 1, "hallucinated": true},
+  {"ProductId": "B00061MUR4", "n": 5, "accept": 2, "reject": 3, "border": 0, "hallucinated": false},
+  {"ProductId": "B000RE6GLG", "n": 11, "accept": 8, "reject": 3, "border": 0, "hallucinated": false},
+  {"ProductId": "B008ADQZ1C", "n": 5, "accept": 5, "reject": 0, "border": 0, "hallucinated": false},
+  {"ProductId": "B000KM1XP4", "n": 6, "accept": 6, "reject": 0, "border": 0, "hallucinated": false},
+  {"ProductId": "B000FA15OU", "n": 5, "accept": 4, "reject": 1, "border": 0, "hallucinated": true},
+  {"ProductId": "B005A8SDCO", "n": 11, "accept": 11, "reject": 0, "border": 0, "hallucinated": false},
+  {"ProductId": "B000EMNKXS", "n": 10, "accept": 10, "reject": 0, "border": 0, "hallucinated": false},
+  {"ProductId": "B001EO5U2O", "n": 11, "accept": 9, "reject": 2, "border": 0, "hallucinated": false},
+  {"ProductId": "B003DVKBK2", "n": 21, "accept": 21, "reject": 0, "border": 0, "hallucinated": false},
+  {"ProductId": "B000YKD1JS", "n": 19, "accept": 19, "reject": 0, "border": 0, "hallucinated": false},
+  {"ProductId": "B000JX0A76", "n": 20, "accept": 16, "reject": 3, "border": 1, "hallucinated": true}
+]

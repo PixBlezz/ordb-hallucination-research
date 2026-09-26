@@ -1,0 +1,5 @@
+[
+  {"ProductId": "B004I5KOM2", "n": 22, "accept": 10, "reject": 11, "border": 1, "hallucinated": true, "type": "extrinsic - invented reasons for rejections"},
+  {"ProductId": "B00061MUR4", "n": 5, "accept": 2, "reject": 3, "border": 0, "hallucinated": false, "type": null},
+  {"ProductId": "B000RE6GLG", "n": 11, "accept": 8, "reject": 3, "border": 0, "hallucinated": false, "type": null}
+]
