@@ -9,7 +9,7 @@ Steps:
    volume-dependence of hallucination risk.
 3. Build the synthesis prompt for each group (the step that hallucinated
    in the original donation-platform project).
-4. [PLACEHOLDER] Call an LLM (Gemini, or another model) to generate the
+4. Call an LLM (Gemini, or another model) to generate the
    synthesized "overall review" for each group -- requires an API key,
    not available in this sandboxed environment.
 5. Scaffold for manual labeling using the MiRANews intrinsic/extrinsic
