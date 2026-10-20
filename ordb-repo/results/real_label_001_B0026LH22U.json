@@ -3,7 +3,7 @@
   "n_reviews": 10,
   "avg_score": 2.6,
   "score_std": 2.07,
-  "model": "Claude (Sonnet, this session)",
+  "model": "Claude (Sonnet 5.5, this session)",
   "synthesized_review": "Customer experiences with this Iams dog food are decidedly mixed. Several long-term users report years of satisfaction, describing healthy coats and good digestion in their dogs. However, a significant number of reviewers report gastrointestinal issues, including vomiting and diarrhea, with some noting these problems began shortly after switching to this product. Some reviewers also raise concerns about the ingredient list, pointing to corn meal and by-product meal as lower-quality fillers compared to competing grain-free brands. Overall, customer satisfaction appears to depend heavily on individual dog tolerance, with a notable split between long-time loyal customers and those who experienced adverse health effects.",
   "hallucinated": false,
   "hallucination_type": null,
