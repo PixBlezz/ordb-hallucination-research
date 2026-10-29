@@ -5,7 +5,7 @@
 ### Modeling Synthesis-Stage Hallucination as a Continuous Risk Process
 
 **Samuel Oppong Boafo**
-Independent Researcher
+Independent Researcher(Discussed with Professor Solomon Mensah)
 
 *Working research notebook. Not peer reviewed.*
 
